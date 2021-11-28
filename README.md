@@ -7,7 +7,7 @@
 [Background](#background) 
 [Project Requirements](#project-requirements) 
 [How to Participate](#how-to-participate)
-[Technical Considerations](#technical-considerations)
+[Additional Considerations](#additional-considerations)
 [Before You Go!](#before-you-go) 
 
 ## Background 
@@ -19,7 +19,7 @@ And for Developers what better way to have fun than by participating in a holida
 This year [Chingu](https://chingu.io) is sponsoring a Holiday Hackathon so you can do just that! Read on to learn how to enter, compete, and celebrate the Season with a little code!
 ## Project Description
 
-For the Chingu Holiday Hackathon 2021 you'll be created a game with a purpose - Help Santa deliver presents around the world before the night is over.
+For the *_Chingu Holiday Hackathon 2021_* you'll be created a game with a purpose - Help Santa deliver presents around the world before the night is over.
 
 As he travels around the world delivering gifts to all the good Software Developers, households leave either milk & cookies or carrots & tea as snacks for him. Milk & cookies increase Santa's calories and slow him down, while carrots & tea help him control his weight so he can complete deliveries faster.
 
@@ -42,9 +42,25 @@ As you might of guessed, Santa believes you can't manage what you don't measure,
 You will need to allow Santa to input the total number of homes to be visited before the night is over and `Start` and `Stop` buttons.
 
 At the end of the simulation you'll need to display the total time it took him to complete his deliveries.
+
 ## How to Participate
 
-## Technical Considerations
+This hackathon will run from **Wednesday, December 1st through Sunday, December 19th**.
+
+You may join as a solo Developer or as a team! To signup fill out and submit the [Holiday Hackathon Signup form](). Within 12 hours we'll email the GitHub repo you'll need to use for your app.
+
+In addition, we'll add you to the `#holidayhackathon2021` channel in the Chingu Discord server so you can ask questions, get advice, and compare notes with other Chingu's.
+
+When you've completed your app fill out the [Holiday Hackathon Completion form](). We will add your project to the new `#showcase` channel in the Chingu Discord server and feature it in our [Twitter](https://twitter.com/ChinguCollabs) and [LinkedIn](https://www.linkedin.com/company/chingu-os) feeds.
+
+We'll also award [Chingu swag](https://chingu.myspreadshop.com/) to the top three projects chosen by a panel of judges. Members of the top three teams will receive a [Chingu water bottle](https://tinyurl.com/yyaub5gh). We'll announce the winners on *_Wednesday, December 22._*
+
+## Additional Considerations
+
+- You may participate as a solo developer or as a team of 2-3 teammates.
+- Unleash your imagination and creativity. Create a UI/UX that's distinctive, fun, and appealing.
+- You may use any language, framework, or libraries you need.
+- Your solution must be your own original work and you may **_not_** use code generators like GitHub Pilot.
 
 ## Before You Go
 
