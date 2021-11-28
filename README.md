@@ -5,12 +5,18 @@
 ### Contents
 
 [Background](#background) 
+<br/>
 [Project Requirements](#project-requirements) 
+<br/>
 [How to Participate](#how-to-participate)
+<br/>
 [Additional Considerations](#additional-considerations)
+<br/>
 [Before You Go!](#before-you-go) 
 
 ## Background 
+![Background](./public/background_section_banner.png)
+
 
 The Holiday Season is a time to celebrate with family and friends, a time to reflect on the past year, and a time to relax and have fun.
 
