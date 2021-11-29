@@ -58,7 +58,7 @@ You may join as a solo Developer or as a team! To signup fill out and submit the
 
 In addition, we'll add you to the `#holidayhackathon2021` channel in the Chingu Discord server so you can ask questions, get advice, and compare notes with other Chingu's.
 
-When you've completed your app fill out the [Holiday Hackathon Completion form](). We will add your project to the new `#showcase` channel in the Chingu Discord server and feature it in our [Twitter](https://twitter.com/ChinguCollabs) and [LinkedIn](https://www.linkedin.com/company/chingu-os) feeds.
+When you've completed your app fill out the [Holiday Hackathon Completion form](https://airtable.com/shrtPfnx6eX96AJxt). We will add your project to the new `#showcase` channel in the Chingu Discord server and feature it in our [Twitter](https://twitter.com/ChinguCollabs) and [LinkedIn](https://www.linkedin.com/company/chingu-os) feeds.
 
 We'll also award [Chingu swag](https://chingu.myspreadshop.com/) to the top three projects chosen by a panel of judges. Members of the top three teams will receive a [Chingu water bottle](https://tinyurl.com/yyaub5gh). We'll announce the winners on *_Wednesday, December 22._*
 
