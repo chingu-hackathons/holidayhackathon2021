@@ -25,7 +25,7 @@ This year [Chingu](https://chingu.io) is sponsoring a Holiday Hackathon so you c
 ## Project Description
 ![Project Description](./public/project_section_banner.jpg)
 
-For the *_Chingu Holiday Hackathon 2021_* you'll be created a game with a purpose - Help Santa deliver presents around the world before the night is over.
+For the *_Chingu Holiday Hackathon 2021_* you'll be creating a game with a purpose - Help Santa deliver presents around the world before the night is over.
 
 As he travels around the world delivering gifts to all the good Software Developers, households leave either milk & cookies or carrots & tea as snacks for him. Milk & cookies increase Santa's calories and slow him down, while carrots & tea help him control his weight so he can complete deliveries faster.
 
@@ -54,11 +54,11 @@ At the end of the simulation you'll need to display the total time it took him t
 
 This hackathon will run from **Wednesday, December 1st through Sunday, December 19th**.
 
-You may join as a solo Developer or as a team! To signup fill out and submit the [Holiday Hackathon Signup form](https://airtable.com/shrzef3NVWMl9PiKt). Within 12 hours we'll email the GitHub repo you'll need to use for your app.
+You may join as a solo Developer or as a team by signing up [here](https://airtable.com/shrzef3NVWMl9PiKt).
 
 In addition, we'll add you to the `#holidayhackathon2021` channel in the Chingu Discord server so you can ask questions, get advice, and compare notes with other Chingu's.
 
-When you've completed your app fill out the [Holiday Hackathon Completion form](https://airtable.com/shrtPfnx6eX96AJxt). We will add your project to the new `#showcase` channel in the Chingu Discord server and feature it in our [Twitter](https://twitter.com/ChinguCollabs) and [LinkedIn](https://www.linkedin.com/company/chingu-os) feeds.
+Be sure to [submit your completed project](https://airtable.com/shrtPfnx6eX96AJxt) before the deadline. We will add your project to the new `#showcase` channel in the Chingu Discord server and feature it in our [Twitter](https://twitter.com/ChinguCollabs) and [LinkedIn](https://www.linkedin.com/company/chingu-os) feeds.
 
 We'll also award [Chingu swag](https://chingu.myspreadshop.com/) to the top three projects chosen by a panel of judges. Members of the top three teams will receive a [Chingu water bottle](https://tinyurl.com/yyaub5gh). We'll announce the winners on *_Wednesday, December 22._*
 
