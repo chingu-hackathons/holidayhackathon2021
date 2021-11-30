@@ -54,11 +54,9 @@ At the end of the simulation you'll need to display the total time it took him t
 
 This hackathon will run from **Wednesday, December 1st through Sunday, December 19th**.
 
-You may join as a solo Developer or as a team by signing up [here](https://airtable.com/shrzef3NVWMl9PiKt).
+You may join as a solo Developer or as a team by signing up [here](https://airtable.com/shrzef3NVWMl9PiKt). We'll follow up with an email containing the URL of the GitHub repo you must use for your project.
 
 In addition, can use the [GitHub Discussions feature](https://github.com/chingu-hackathons/holidayhackathon2021/discussions) to ask questions, get advice, and compare notes with other participants.
-
-If you don't have access to the Chingu Discord server you can use 
 
 Be sure to [submit your completed project](https://airtable.com/shrtPfnx6eX96AJxt) before the deadline. We will add your project to the new `#showcase` channel in the Chingu Discord server and feature it in our [Twitter](https://twitter.com/ChinguCollabs) and [LinkedIn](https://www.linkedin.com/company/chingu-os) feeds.
 
