@@ -56,7 +56,9 @@ This hackathon will run from **Wednesday, December 1st through Sunday, December 
 
 You may join as a solo Developer or as a team by signing up [here](https://airtable.com/shrzef3NVWMl9PiKt).
 
-In addition, we'll add you to the `#holidayhackathon2021` channel in the Chingu Discord server so you can ask questions, get advice, and compare notes with other Chingu's.
+In addition, can use the [GitHub Discussions feature](https://github.com/chingu-hackathons/holidayhackathon2021/discussions) to ask questions, get advice, and compare notes with other participants.
+
+If you don't have access to the Chingu Discord server you can use 
 
 Be sure to [submit your completed project](https://airtable.com/shrtPfnx6eX96AJxt) before the deadline. We will add your project to the new `#showcase` channel in the Chingu Discord server and feature it in our [Twitter](https://twitter.com/ChinguCollabs) and [LinkedIn](https://www.linkedin.com/company/chingu-os) feeds.
 
