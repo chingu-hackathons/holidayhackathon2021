@@ -29,7 +29,7 @@ For the *_Chingu Holiday Hackathon 2021_* you'll be creating a game with a purpo
 
 As he travels around the world delivering gifts to all the good Software Developers, households leave either milk & cookies or carrots & tea as snacks for him. Milk & cookies increase Santa's calories and slow him down, while carrots & tea help him control his weight so he can complete deliveries faster.
 
-For the Holiday Hackathon you'll create an app that assigns a 5000 calorie target for Santa and adds 75 calories for milk & cookies and subtracts 50 calories for carrots & tea. 
+For the Holiday Hackathon you'll create an app that assigns a 5000 calorie target for Santa and adds 75 calories for milk & cookies and subtracts 50 calories for carrots & tea. In addition, Santa burns 60 calories for each home he visits. This means there's a net addition of 15 calories for homes who leave him cookies and a net decrease of 10 calories for those that leave him carrots.
 
 Santa can visit 10 homes per second as long as his total nightly calorie intake is below 5000, but only 5 homes per second when it greater than or equal to 5000 calories. 
 
