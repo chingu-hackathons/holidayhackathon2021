@@ -27,7 +27,7 @@ This year [Chingu](https://chingu.io) is sponsoring a Holiday Hackathon so you c
 
 For the *_Chingu Holiday Hackathon 2021_* you'll be creating a game with a purpose - Help Santa deliver presents around the world before the night is over.
 
-As he travels around the world delivering gifts to all the good Software Developers, households leave either milk & cookies or carrots & tea as snacks for him. Milk & cookies increase Santa's calories and slow him down, while carrots & tea help him control his weight so he can complete deliveries faster.
+As he travels around the world delivering gifts to all the good Software Developers, 60% of the households leave milk & cookies and 40% leave him carrots & tea as snacks. Milk & cookies increase Santa's calories and slow him down, while carrots & tea help him control his weight so he can complete deliveries faster.
 
 For the Holiday Hackathon you'll create an app that assigns a 5000 calorie target for Santa and adds 75 calories for milk & cookies and subtracts 50 calories for carrots & tea. In addition, Santa burns 60 calories for each home he visits. This means there's a net addition of 15 calories for homes who leave him cookies and a net decrease of 10 calories for those that leave him carrots.
 
