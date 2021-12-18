@@ -52,7 +52,7 @@ At the end of the simulation you'll need to display the total time it took him t
 ## How to Participate
 ![How to Participate](./public/participate_section_banner.jpg)
 
-This hackathon will run from **Wednesday, December 1st through Sunday, December 19th**.
+This hackathon will run from **Wednesday, December 1st through Sunday, December 24**.
 
 You may join as a solo Developer or as a team by signing up [here](https://airtable.com/shrzef3NVWMl9PiKt). We'll follow up with an email containing the URL of the GitHub repo you must use for your project.
 
@@ -60,7 +60,7 @@ In addition, can use the [GitHub Discussions feature](https://github.com/chingu-
 
 Be sure to [submit your completed project](https://airtable.com/shrtPfnx6eX96AJxt) before the deadline. We will recognize your contribution in our [Twitter](https://twitter.com/ChinguCollabs) and [LinkedIn](https://www.linkedin.com/company/chingu-os) feeds.
 
-We'll also award [Chingu swag](https://chingu.myspreadshop.com/) to the top three projects chosen by a panel of judges. Members of the top three teams will receive a [Chingu water bottle](https://tinyurl.com/yyaub5gh). We'll announce the winners on *_Wednesday, December 22._*
+We'll also award [Chingu swag](https://chingu.myspreadshop.com/) to the top three projects chosen by a panel of judges. Members of the top three teams will receive a [Chingu water bottle](https://tinyurl.com/yyaub5gh). We'll announce the winners on *_Tuesday, December 28._*
 
 ## Additional Considerations
 ![Additional Considerations](./public/considerations_section_banner.jpg)
