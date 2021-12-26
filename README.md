@@ -52,7 +52,7 @@ At the end of the simulation you'll need to display the total time it took him t
 ## How to Participate
 ![How to Participate](./public/participate_section_banner.jpg)
 
-This hackathon will run from **Wednesday, December 1st through Sunday, December 24**.
+This hackathon will run from **Wednesday, December 1st through Sunday, December 26**.
 
 You may join as a solo Developer or as a team by signing up [here](https://airtable.com/shrzef3NVWMl9PiKt). We'll follow up with an email containing the URL of the GitHub repo you must use for your project.
 
